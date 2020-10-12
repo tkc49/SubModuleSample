@@ -1,0 +1,3 @@
+[submodule "Sample"]
+	path = Sample
+	url = git@github.com:tkc49/Sample.git
